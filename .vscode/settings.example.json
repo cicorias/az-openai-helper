@@ -1,0 +1,10 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "lldb.library": "/Applications/Xcode.app/Contents/SharedFrameworks/LLDB.framework/Versions/A/LLDB",
+    "maven.terminal.favorites": [
+        {
+            "command": "quarkus:dev",
+            "debug": false
+        }
+    ]
+}
